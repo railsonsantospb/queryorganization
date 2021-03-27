@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/seven/queryorganization/app/controllers/HomeController.java:27:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method render(java.lang.String)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0mrender[0m

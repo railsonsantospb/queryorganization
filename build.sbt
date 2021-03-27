@@ -9,5 +9,6 @@ scalaVersion := "2.13.3"
 
 libraryDependencies ++= Seq(
 	guice,
-  	javaWs
+  	javaWs,
+  	"org.jsoup" % "jsoup" % "1.13.1"
 )

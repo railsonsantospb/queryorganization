@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/seven/queryorganization/conf/routes
-// @DATE:Fri Mar 26 17:45:52 BRT 2021
+// @SOURCE:/home/seven/Documents/GitHub/queryorganization/conf/routes
+// @DATE:Sat Mar 27 07:52:02 BRT 2021
 
 import play.api.mvc.Call
 

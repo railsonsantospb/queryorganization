@@ -1,3 +1,8 @@
-[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:41:1: incompatible types: com.fasterxml.jackson.databind.JsonNode cannot be converted to java.lang.String[0m
-[0m[[0m[31merror[0m] [0m[0mnodeJson.get(0).get("contributors_url")[0m
-[0m[[0m[0minfo[0m] [0m[0mSome messages have been simplified; recompile with -Xdiags:verbose to get full output[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:33:1: illegal start of expression[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:38:1: illegal start of type[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:87:1: illegal start of type[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:87:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:91:1: illegal start of type[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:91:1: invalid method declaration; return type required[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:91:1: <identifier> expected[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:95:1: class, interface, or enum expected[0m

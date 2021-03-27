@@ -10,5 +10,6 @@ scalaVersion := "2.13.3"
 libraryDependencies ++= Seq(
 	guice,
   	javaWs,
-  	"org.jsoup" % "jsoup" % "1.13.1"
+  	"org.jsoup" % "jsoup" % "1.13.1",
+  	"org.codehaus.jackson" % "jackson-mapper-asl" % "1.9.13"
 )

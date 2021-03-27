@@ -1,4 +1,3 @@
-[0m[[0m[31merror[0m] [0m[0m/home/seven/queryorganization/app/controllers/HomeController.java:27:1: cannot find symbol[0m
-[0m[[0m[31merror[0m] [0m[0m  symbol:   method render(java.lang.String)[0m
-[0m[[0m[31merror[0m] [0m[0m  location: class controllers.HomeController[0m
-[0m[[0m[31merror[0m] [0m[0mrender[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:41:1: incompatible types: com.fasterxml.jackson.databind.JsonNode cannot be converted to java.lang.String[0m
+[0m[[0m[31merror[0m] [0m[0mnodeJson.get(0).get("contributors_url")[0m
+[0m[[0m[0minfo[0m] [0m[0mSome messages have been simplified; recompile with -Xdiags:verbose to get full output[0m

@@ -18,34 +18,6 @@ import com.fasterxml.jackson.databind.*;
 import java.io.*;
 import java.util.stream.Collectors;
 
-/*
-Você foi selecionado para participar da primeira fase do nosso processo de seleção para a vaga de ANALISTA JAVA PLENO/SÊNIOR.
-
-Objetivo:
-
-  Criar uma aplicação WEB, que retorne uma lista das contribuições em
-  todos os repositórios GitHub de uma organização consultada.
-
-Requisitos:
-
-  - Utilizar o framework Play;
-  - Linguagem JAVA ou Scala (Ganha mais pontos);
-  - A JSON de resposta deve ter essa estrutura:
-{ "name": <Login do contribuinte>, "contributions": <Nº de contribuições>}
-  - Tratar as restrições da API do GitHub usando um token na variável de ambiente GH_TOKEN;
-  - A aplicação deve responder na URI '/api/v1/organizations/{orgName}/contributors';
-  - Retornar uma lista ordenada de forma decrescente usando o nº de contribuições;
-  - A API deve ser versionada.
-
-Obs.: A API do GitHub é paginada mas não precisa implementar, com isso diminui o tamanho da resposta.
-
-Prazo para concluir a tarefa: 7 dias.
-
-O código pode ficar em um repositório Git mas deve ser enviado um e-mail para mraraujo@tce.pb.gov.br, indicando
-a finalização e link para verificação.
-
-Ao término dessa atividade o candidato será avaliado e poderá prosseguir para a segunda fase de entrevista.
-*/
 
 public class HomeController extends Controller {
 

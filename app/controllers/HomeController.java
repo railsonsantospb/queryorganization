@@ -53,12 +53,10 @@ public class HomeController extends Controller {
                     .header("Authorization", "Bearer "+variavelDeAmbiente)
                     .ignoreContentType(true).get().body().text();
 
-                    
-                    
-                    
-                    
+       
                     JsonNode nodeJson2 = objectJson.readValue(js, JsonNode.class);
 
+                    // quando retornar 0 contribuidore(s) não itera, só quando for igual ou maior que 1
                     if(nodeJson2.size() > 0){
                         for(int j = 0; j < nodeJson2.size(); j++){
 
@@ -75,11 +73,7 @@ public class HomeController extends Controller {
                             
                         }
                     }
-
-                    
-                    
-
-                    
+               
                 }
                 
                 // Ordenar o map de forma descendente por valor

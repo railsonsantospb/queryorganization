@@ -1,8 +1,2 @@
-[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:33:1: illegal start of expression[0m
-[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:38:1: illegal start of type[0m
-[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:87:1: illegal start of type[0m
-[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:87:1: ';' expected[0m
-[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:91:1: illegal start of type[0m
-[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:91:1: invalid method declaration; return type required[0m
-[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:91:1: <identifier> expected[0m
-[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:95:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m/home/seven/Documents/GitHub/queryorganization/app/controllers/HomeController.java:57:1: array required, but java.lang.String found[0m
+[0m[[0m[31merror[0m] [0m[0mjs[0][0m
